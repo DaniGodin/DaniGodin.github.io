@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Godin</title>
-    <link>https://DaniGodin.github.io/</link>
+    <link>https://dangodin.com/</link>
     <description>Recent content on Daniel Godin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Daniel Godin 2020</copyright><atom:link href="https://DaniGodin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Daniel Godin 2020</copyright><atom:link href="https://dangodin.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
